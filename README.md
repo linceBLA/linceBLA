@@ -1,4 +1,4 @@
-# Hello, I'm Celine Blandin, alias LinceBLA
+# Hi, I'm Celine Blandin, alias LinceBLA
 <a href="www.linkedin.com/in/celine-blandin"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an Ethical Hacker committed to enhancing cybersecurity and helping protect the digital world from threats. 
