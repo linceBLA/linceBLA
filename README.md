@@ -37,7 +37,7 @@ I am now eager to start a new position as penteration tester.
 
 ### Data Serialization and Markup Languages
 <div>
-    <img src="https://img.shields.io/badge/-Markup-000000?&style=for-the-badge&logo=markup&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Markdown-000000?&style=for-the-badge&logo=markdown&logoColor=white" />
     <img src="https://img.shields.io/badge/-YAML-FF4F00?&style=for-the-badge&logo=yaml&logoColor=white" />
 </div>
 
