@@ -65,5 +65,5 @@ I am now eager to start a new position as penteration tester.
 ### Coding
 |Language            | Associated projects |
 |--------------------|---------------------|
-|Python              | <a href="https://www.google.com">Python Scripts<a/> |
-|YAML                | <a href="https://www.google.com">YAML Scripts<a/> |
+|Python              | <a href="https://github.com/linceBLA/Python-Scripts">Python Scripts<a/> |
+|YAML                | <a href="https://github.com/linceBLA/YAML-Scripts">YAML Scripts<a/> |
