@@ -59,7 +59,7 @@ I am now eager to start a new position as penteration tester.
 |----------------------------------------------------------|-----------------------------------------------------|
 |One of the largest International Bank                     | <a href="https://github.com/linceBLA/Low-Code-and-Security">Low Code and Security<a/> |
 |12th grade students - French College                      | <a href="https://github.com/linceBLA/La-cybersecurite-et-ses-impacts/tree/main">La cybersecurite et ses impacts<a/> |
-|4th grade students - French school                        | <a href="https://google.com">C'est quoi la Cybersecurite<a/> |
+|4th grade students - French school                        | <a href="https://github.com/linceBLA/C-est-quoi-la-Cybersecurite">C'est quoi la Cybersecurite<a/> |
 |French community                                          | <a href="https://google.com">Introduction a la Cybersecurite<a/> |
 
 
