@@ -14,7 +14,7 @@ I am now eager to start a new position as penteration tester.
 
 ### Security and Penetration Testing Tools:
 <div>
-    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <a href="https://www.kali.org"><img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kali-linux&logoColor=white" /><a/>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite%20Pro-6D6E71?&style=for-the-badge&logo=burp-suite&logoColor=white" />
