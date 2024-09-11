@@ -7,7 +7,7 @@ I am an Ethical Hacker committed to enhancing cybersecurity and helping protect 
 ## Objective
 
 As a Ethical Hacker, I specialize in identifying system vulnerabilities, adapting methodologies to client systems and adhering to OWASP standards. With extensive Project Management experience, I excel in problem-solving, planning, and organizing, while effectively managing teams, clients, subcontractors, and project deadlines and budgets.
-I am now eager to start a new position as penteration tester.
+I am now eager to start a new position as pentester.
 
 
 ## Tools
