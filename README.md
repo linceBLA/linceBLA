@@ -45,7 +45,7 @@ I am now eager to start a new position as penteration tester.
 ## Certifications
 
 <div>
-<a href="https://www.comptia.org/"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
+<a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
 <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/-TryHackMe%20Offensive%20Pentesting-4F5D95?&style=for-the-badge&logo=tryhackme&logoColor=white" /><a/>
 <a href="https://www.udemy.com/"><img src="https://img.shields.io/badge/-Udemy%20Python-EC5252?&style=for-the-badge&logo=udemy&logoColor=white" /><a/>
 <img src="https://img.shields.io/badge/-Edusphere%20Wireless%20Ethical%20Hacking%20%26%20Penetration%20Testing-3D3D3D?&style=for-the-badge&logo=edusphere&logoColor=white" />
