@@ -6,8 +6,35 @@ I am an Ethical Hacker committed to enhancing cybersecurity and helping protect 
 
 ## Objective
 
-As a Ethical Hacker, I specialize in identifying system vulnerabilities, adapting methodologies to client systems and adhering to OWASP standards. With extensive Project Management experience, I excel in problem-solving, planning, and organizing, while effectively managing teams, clients, subcontractors, and project deadlines and budgets.
-I am now eager to start a new position as pentester.
+As a Ethical Hacker, I specialize in identifying system vulnerabilities, adapting methodologies to client systems and adhering to OWASP standards. With extensive Project Management experience, I excel in problem-solving, planning, and organizing, while effectively managing teams, clients, subcontractors, and project deadlines and budgets. I also actively share my expertise as a speaker at cybersecurity conferences, empowering individuals to understand digital risks and adopt effective protection strategies.
+
+
+## Certifications
+
+<div>
+<a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"><img src="https://img.shields.io/badge/-CEH%20Certified%20Ethical%20Hacker-5C5C5C?style=for-the-badge&logo=Hackaday&logoColor=white" /></a> 
+<a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
+<a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/-TryHackMe%20Offensive%20Pentesting-4F5D95?&style=for-the-badge&logo=tryhackme&logoColor=white" /><a/>
+<a href="https://www.udemy.com/"><img src="https://img.shields.io/badge/-Udemy%20Python-EC5252?&style=for-the-badge&logo=udemy&logoColor=white" /><a/>
+<img src="https://img.shields.io/badge/-Edusphere%20Wireless%20Ethical%20Hacking%20%26%20Penetration%20Testing-3D3D3D?&style=for-the-badge&logo=edusphere&logoColor=white" />
+<a href="https://www.insa-toulouse.fr/"><img src="https://img.shields.io/badge/-INSA%20Civil%20Engineering-003D7D?&style=for-the-badge&logo=institute-of-engineering&logoColor=white" /><a/>
+
+
+## Projects
+
+### Presentations
+|Audience                                                  | Associated Presentation                             |
+|----------------------------------------------------------|-----------------------------------------------------|
+|One of the largest International Bank                     | <a href="https://github.com/linceBLA/Low-Code-and-Security">Low Code and Security<a/> |
+|12th grade students - French College                      | <a href="https://github.com/linceBLA/La-cybersecurite-et-ses-impacts/tree/main">La cybersecurite et ses impacts<a/> |
+|4th grade students - French school                        | <a href="https://github.com/linceBLA/C-est-quoi-la-Cybersecurite">C'est quoi la Cybersecurite<a/> |
+|French community                                          | <a href="https://github.com/linceBLA/Introduction-a-la-Cybersecurite/tree/main">Introduction a la Cybersecurite<a/> |
+
+### Coding
+|Language            | Associated projects |
+|--------------------|---------------------|
+|Python              | <a href="https://github.com/linceBLA/Python-Scripts">Python Scripts<a/> |
+|YAML                | <a href="https://github.com/linceBLA/YAML-Scripts">YAML Scripts<a/> |
 
 
 ## Tools
@@ -41,30 +68,3 @@ I am now eager to start a new position as pentester.
     <a href="https://yaml.org/"><img src="https://img.shields.io/badge/-YAML-FF4F00?&style=for-the-badge&logo=yaml&logoColor=white" /><a/>
 </div>
 
-
-## Certifications
-
-<div>
-<a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"><img src="https://img.shields.io/badge/-CEH%20Certified%20Ethical%20Hacker-5C5C5C?style=for-the-badge&logo=Hackaday&logoColor=white" /></a> 
-<a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
-<a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/-TryHackMe%20Offensive%20Pentesting-4F5D95?&style=for-the-badge&logo=tryhackme&logoColor=white" /><a/>
-<a href="https://www.udemy.com/"><img src="https://img.shields.io/badge/-Udemy%20Python-EC5252?&style=for-the-badge&logo=udemy&logoColor=white" /><a/>
-<img src="https://img.shields.io/badge/-Edusphere%20Wireless%20Ethical%20Hacking%20%26%20Penetration%20Testing-3D3D3D?&style=for-the-badge&logo=edusphere&logoColor=white" />
-<a href="https://www.insa-toulouse.fr/"><img src="https://img.shields.io/badge/-INSA%20Civil%20Engineering-003D7D?&style=for-the-badge&logo=institute-of-engineering&logoColor=white" /><a/>
-
-
-## Projects
-
-### Presentations
-|Audience                                                  | Associated Presentation                             |
-|----------------------------------------------------------|-----------------------------------------------------|
-|One of the largest International Bank                     | <a href="https://github.com/linceBLA/Low-Code-and-Security">Low Code and Security<a/> |
-|12th grade students - French College                      | <a href="https://github.com/linceBLA/La-cybersecurite-et-ses-impacts/tree/main">La cybersecurite et ses impacts<a/> |
-|4th grade students - French school                        | <a href="https://github.com/linceBLA/C-est-quoi-la-Cybersecurite">C'est quoi la Cybersecurite<a/> |
-|French community                                          | <a href="https://github.com/linceBLA/Introduction-a-la-Cybersecurite/tree/main">Introduction a la Cybersecurite<a/> |
-
-### Coding
-|Language            | Associated projects |
-|--------------------|---------------------|
-|Python              | <a href="https://github.com/linceBLA/Python-Scripts">Python Scripts<a/> |
-|YAML                | <a href="https://github.com/linceBLA/YAML-Scripts">YAML Scripts<a/> |
