@@ -29,7 +29,9 @@ As a Ethical Hacker, I specialize in identifying system vulnerabilities, adaptin
 |One of the largest International Bank                     | <a href="https://github.com/linceBLA/Low-Code-and-Security">Low Code and Security<a/> |
 |12th grade students - French College                      | <a href="https://github.com/linceBLA/La-cybersecurite-et-ses-impacts/tree/main">La cybersecurite et ses impacts<a/> |
 |4th grade students - French school                        | <a href="https://github.com/linceBLA/C-est-quoi-la-Cybersecurite">C'est quoi la Cybersecurite<a/> |
-|French community                                          | <a href="https://github.com/linceBLA/Introduction-a-la-Cybersecurite/tree/main">Introduction a la Cybersecurite<a/> |
+|French community - UAE/Abu Dhabi                          | <a href="https://github.com/linceBLA/Introduction-a-la-Cybersecurite/tree/main">Introduction a la Cybersecurite<a/> |
+|French community - USA/HOUSTON                            | <a href="https://github.com/linceBLA/Cybersecurite-2025/tree/main">Cybersecurite 2025: Comment se proteger?<a/> |
+|French community - USA/HOUSTON                            | <a href="https://github.com/linceBLA/AI-and-Cybersecurity">IA et Cybersecurite<a/> |
 
 ### Coding
 |Language            | Associated projects |
