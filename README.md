@@ -1,12 +1,16 @@
 # Hi, I'm Celine Blandin
 <a href="https://www.linkedin.com/in/celine-blandin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an Ethical Hacker committed to enhancing cybersecurity and helping protect the digital world from threats. 
+I am an **Ethical Hacker** driven by a passion for both **Cybersecurity** and **Artificial Intelligence**, dedicated to protecting the digital world and exploring how **AI can both defend and disrupt**.
 
 
 ## Objective
 
-As a Ethical Hacker, I specialize in identifying system vulnerabilities, adapting methodologies to client systems and adhering to OWASP standards. With extensive Project Management experience, I excel in problem-solving, planning, and organizing, while effectively managing teams, clients, subcontractors, and project deadlines and budgets. I also actively share my expertise as a speaker at cybersecurity conferences, empowering individuals to understand digital risks and adopt effective protection strategies.
+As an **Ethical Hacker** passionate about **Cybersecurity and Artificial Intelligence**, I specialize in identifying system vulnerabilities, adapting methodologies to client environments, and aligning with OWASP standards. I explore both sides of AI in security — from **leveraging AI to strengthen cybersecurity** to **auditing and challenging AI systems** themselves.
+
+With solid experience in **Project Management**, I bring strong skills in problem-solving, planning, and organization, and I’m adept at coordinating teams, clients, subcontractors, and project deadlines and budgets.
+
+I also actively share my knowledge as a **speaker at cybersecurity and AI-related conferences**, helping individuals and organizations understand digital threats and adopt smart protection strategies in an AI-driven world.
 
 
 ## Certifications
