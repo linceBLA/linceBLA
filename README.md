@@ -3,7 +3,7 @@
 
 I am an **Ethical Hacker** driven by a passion for both **Cybersecurity** and **Artificial Intelligence**, dedicated to protecting the digital world and exploring how **AI can both defend and disrupt**.
 
-## 🎯 My Objective
+## 🎯 My Mission & Core Skills
 
 As an **Ethical Hacker** passionate about **Cybersecurity** and **Artificial Intelligence**, I specialize in:
 
