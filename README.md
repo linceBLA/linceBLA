@@ -3,14 +3,57 @@
 
 I am an **Ethical Hacker** driven by a passion for both **Cybersecurity** and **Artificial Intelligence**, dedicated to protecting the digital world and exploring how **AI can both defend and disrupt**.
 
+## 🎯 My Objective
 
-## Objective
+As an **Ethical Hacker** passionate about **Cybersecurity** and **Artificial Intelligence**, I specialize in:
 
-As an **Ethical Hacker** passionate about **Cybersecurity and Artificial Intelligence**, I specialize in identifying system vulnerabilities, adapting methodologies to client environments, and aligning with OWASP standards. I explore both sides of AI in security — from **leveraging AI to strengthen cybersecurity** to **auditing and challenging AI systems** themselves.
+- 🕵️‍♂️ Identifying system vulnerabilities  
+- 🛠️ Adapting methodologies to fit client environments  
+- 📚 Aligning with **OWASP standards** for secure web applications  
 
-With solid experience in **Project Management**, I bring strong skills in problem-solving, planning, and organization, and I’m adept at coordinating teams, clients, subcontractors, and project deadlines and budgets.
+I explore **both sides of AI in security**:
+- 🤖 **Hacking with AI** to strengthen defenses  
+- 🧠 **Auditing and challenging AI systems** to ensure robustness and safety  
 
-I also actively share my knowledge as a **speaker at cybersecurity and AI-related conferences**, helping individuals and organizations understand digital threats and adopt smart protection strategies in an AI-driven world.
+With a strong foundation in **Project Management**, I bring:
+- 🔍 Problem-solving & planning skills  
+- 🧩 Team, client, and subcontractor coordination  
+- ⏱️ Deadline and budget management  
+
+As a **speaker and cybersecurity educator**, I’m able to:
+- 📢 Communicate complex concepts in simple terms  
+- 🧑‍🏫 Transfer technical knowledge to diverse audiences  
+- 🌐 Raise awareness on digital threats and smart protection strategies in an AI-driven world  
+
+
+## Projects
+
+
+### 💻 Coding Projects Overview
+
+| Language | Project | Description |
+|----------|---------|-------------|
+| **Python** | [Python Scripts](https://github.com/linceBLA/Python-Scripts) | A collection of automation and security tools including domain mapping, quick web checks, and vulnerability scans. Optimized for fast web audits. |
+| **YAML** | [Nuclei Templates](https://github.com/linceBLA/YAML-Scripts) | Custom [Nuclei](https://github.com/projectdiscovery/nuclei) vulnerability templates targeting CVEs, misconfigurations, and CMS-specific flaws. Ready-to-use and regularly updated. |
+
+
+
+
+### 🎤 Public Speaking & Cybersecurity Awareness
+
+I regularly give presentations to raise awareness on cybersecurity and artificial intelligence for a wide range of audiences, from primary school students to corporate professionals.
+
+| Audience | Presentation Title & Link |
+|-------------------------------------------|------------------------------|
+| One of the largest international banks     | [Low Code and Security](https://github.com/linceBLA/Low-Code-and-Security) |
+| 12th grade students – French high school   | [Cybersecurity and Its Impacts](https://github.com/linceBLA/La-cybersecurite-et-ses-impacts/tree/main) |
+| 4th grade students – French elementary school | [What is Cybersecurity?](https://github.com/linceBLA/C-est-quoi-la-Cybersecurite) |
+| French community – UAE / Abu Dhabi         | [Introduction to Cybersecurity](https://github.com/linceBLA/Introduction-a-la-Cybersecurite/tree/main) |
+| French community – USA / Houston           | [Cybersecurity 2025: How to Protect Yourself?](https://github.com/linceBLA/Cybersecurite-2025/tree/main) |
+| French community – USA / Houston           | [AI and Cybersecurity](https://github.com/linceBLA/AI-and-Cybersecurity) |
+
+
+
 
 
 ## Certifications
@@ -23,26 +66,6 @@ I also actively share my knowledge as a **speaker at cybersecurity and AI-relate
 <a href="https://www.udemy.com/"><img src="https://img.shields.io/badge/-Udemy%20Python-EC5252?&style=for-the-badge&logo=udemy&logoColor=white" /><a/>
 <img src="https://img.shields.io/badge/-Edusphere%20Wireless%20Ethical%20Hacking%20%26%20Penetration%20Testing-3D3D3D?&style=for-the-badge&logo=edusphere&logoColor=white" />
 <a href="https://www.insa-toulouse.fr/"><img src="https://img.shields.io/badge/-INSA%20Civil%20Engineering-003D7D?&style=for-the-badge&logo=institute-of-engineering&logoColor=white" /><a/>
-
-
-## Projects
-
-### Presentations
-|Audience                                                  | Associated Presentation                             |
-|----------------------------------------------------------|-----------------------------------------------------|
-|One of the largest International Bank                     | <a href="https://github.com/linceBLA/Low-Code-and-Security">Low Code and Security<a/> |
-|12th grade students - French College                      | <a href="https://github.com/linceBLA/La-cybersecurite-et-ses-impacts/tree/main">La cybersecurite et ses impacts<a/> |
-|4th grade students - French school                        | <a href="https://github.com/linceBLA/C-est-quoi-la-Cybersecurite">C'est quoi la Cybersecurite<a/> |
-|French community - UAE/Abu Dhabi                          | <a href="https://github.com/linceBLA/Introduction-a-la-Cybersecurite/tree/main">Introduction a la Cybersecurite<a/> |
-|French community - USA/HOUSTON                            | <a href="https://github.com/linceBLA/Cybersecurite-2025/tree/main">Cybersecurite 2025: Comment se proteger?<a/> |
-|French community - USA/HOUSTON                            | <a href="https://github.com/linceBLA/AI-and-Cybersecurity">IA et Cybersecurite<a/> |
-
-### Coding
-|Language            | Associated projects |
-|--------------------|---------------------|
-|Python              | <a href="https://github.com/linceBLA/Python-Scripts">Python Scripts<a/> |
-|YAML                | <a href="https://github.com/linceBLA/YAML-Scripts">YAML Scripts<a/> |
-
 
 ## Tools
 
