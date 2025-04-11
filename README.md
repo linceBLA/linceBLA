@@ -26,10 +26,10 @@ As a **speaker and cybersecurity educator**, I’m able to:
 - 🌐 Raise awareness on digital threats and smart protection strategies in an AI-driven world  
 
 
-## Projects
+## 📂 Projects
 
 
-### 💻 Coding Projects Overview
+### Coding Projects Overview
 
 | Language | Project | Description |
 |----------|---------|-------------|
@@ -39,7 +39,7 @@ As a **speaker and cybersecurity educator**, I’m able to:
 
 
 
-### 🎤 Public Speaking & Cybersecurity Awareness
+### Public Speaking & Cybersecurity Awareness
 
 I regularly give presentations to raise awareness on cybersecurity and artificial intelligence for a wide range of audiences, from primary school students to corporate professionals.
 
@@ -56,7 +56,7 @@ I regularly give presentations to raise awareness on cybersecurity and artificia
 
 
 
-## Certifications
+## 🎓 Certifications
 
 <div> 
 <a href="https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-practical/"><img src="https://img.shields.io/badge/-CEH%20Practical-D32F2F?style=for-the-badge&logo=Hackaday&logoColor=000000" /></a> 
@@ -67,7 +67,7 @@ I regularly give presentations to raise awareness on cybersecurity and artificia
 <img src="https://img.shields.io/badge/-Edusphere%20Wireless%20Ethical%20Hacking%20%26%20Penetration%20Testing-3D3D3D?&style=for-the-badge&logo=edusphere&logoColor=white" />
 <a href="https://www.insa-toulouse.fr/"><img src="https://img.shields.io/badge/-INSA%20Civil%20Engineering-003D7D?&style=for-the-badge&logo=institute-of-engineering&logoColor=white" /><a/>
 
-## Tools
+## 🧰 Tools & Technologies
 
 ### Security and Penetration Testing Tools:
 <div>
