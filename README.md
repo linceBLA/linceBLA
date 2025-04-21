@@ -62,7 +62,7 @@ I regularly give presentations to raise awareness on cybersecurity and artificia
 <a href="https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-practical/"><img src="https://img.shields.io/badge/-CEH%20Practical-D32F2F?style=for-the-badge&logo=Hackaday&logoColor=000000" /></a> 
 <a href="https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"><img src="https://img.shields.io/badge/-CEH%20Certified%20Ethical%20Hacker-D32F2F?style=for-the-badge&logo=Hackaday&logoColor=000000" /></a>
 <a href="https://www.credly.com/badges/17a94e1a-1fd7-42ea-9727-3795bcc676d5/public_url" target="_blank">
-<a href="https://www.credly.com/badges/17a94e1a-1fd7-42ea-9727-3795bcc676d5/public_url" target="_blank"><img src="https://img.shields.io/badge/-Foundations%20of%20AI%20Security%20(AttackIQ)-800080?style=for-the-badge&logo=security&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/17a94e1a-1fd7-42ea-9727-3795bcc676d5/public_url" target="_blank"><img src="https://img.shields.io/badge/Foundations%20of%20AI%20Security%20(AttackIQ)-800080?style=for-the-badge&logo=semanticweb&logoColor=black" /></a>
 <a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
 <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/-TryHackMe%20Offensive%20Pentesting-4F5D95?&style=for-the-badge&logo=tryhackme&logoColor=white" /><a/>
 <a href="https://www.udemy.com/"><img src="https://img.shields.io/badge/-Udemy%20Python-EC5252?&style=for-the-badge&logo=udemy&logoColor=white" /><a/>
