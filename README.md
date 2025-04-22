@@ -47,7 +47,7 @@ I regularly give presentations to raise awareness on cybersecurity and artificia
 |-------------------------------------------|------------------------------|
 | One of the largest international banks     | [Low Code and Security](https://github.com/linceBLA/Low-Code-and-Security) |
 | 12th grade students – French high school   | [Cybersecurity and Its Impacts](https://github.com/linceBLA/La-cybersecurite-et-ses-impacts/tree/main) |
-| 4th grade students – French elementary school | [What is Cybersecurity?](https://github.com/linceBLA/C-est-quoi-la-Cybersecurite) |
+| From 3rd grade students – French elementary school | [What is Cybersecurity?](https://github.com/linceBLA/C-est-quoi-la-Cybersecurite) |
 | French community – UAE / Abu Dhabi         | [Introduction to Cybersecurity](https://github.com/linceBLA/Introduction-a-la-Cybersecurite/tree/main) |
 | French community – USA / Houston           | [Cybersecurity 2025: How to Protect Yourself?](https://github.com/linceBLA/Cybersecurite-2025/tree/main) |
 | French community – USA / Houston           | [AI and Cybersecurity](https://github.com/linceBLA/AI-and-Cybersecurity) |
