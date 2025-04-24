@@ -37,7 +37,10 @@ As a **speaker and cybersecurity educator**, I’m able to:
 | **YAML** | [Nuclei Templates](https://github.com/linceBLA/YAML-Scripts) | Custom [Nuclei](https://github.com/projectdiscovery/nuclei) vulnerability templates targeting CVEs, misconfigurations, and CMS-specific flaws. Ready-to-use and regularly updated. |
 
 
+### AI
 
+- [My local AI]
+- [My local AI Agent]
 
 ### Public Speaking & Cybersecurity Awareness
 
