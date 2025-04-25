@@ -39,8 +39,8 @@ As a **speaker and cybersecurity educator**, I’m able to:
 
 ### AI
 
-- [My local AI](https://github.com/linceBLA/My-local-AI)
-- [My local AI Agent](https://github.com/linceBLA/My-local-AI-Agent)
+- [My local AI](https://github.com/linceBLA/My-local-AI): I installed my own local AI on my computer
+- [My local AI Agent](https://github.com/linceBLA/My-local-AI-Agent): I installed an AI agent on my local computer
 
 ### Public Speaking & Cybersecurity Awareness
 
