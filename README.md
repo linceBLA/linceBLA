@@ -37,6 +37,7 @@ As a **speaker and cybersecurity educator**, I’m able to:
 | **Python** | [QR Code scanner via Virus Total](https://github.com/linceBLA/QR-Code-Scanner/tree/main) | web-based QR Code Security Scanner that uses the VirusTotal API to check scanned URLs for threats before opening them, helping users avoid malicious links. |
 | **YAML** | [Nuclei Templates](https://github.com/linceBLA/YAML-Scripts) | Custom [Nuclei](https://github.com/projectdiscovery/nuclei) vulnerability templates targeting CVEs, misconfigurations, and CMS-specific flaws. |
 
+-----------
 
 ### AI
 
@@ -45,7 +46,7 @@ As a **speaker and cybersecurity educator**, I’m able to:
 |  My own local AI    | [My local AI](https://github.com/linceBLA/My-local-AI) |
 | My AI agent on my local computer   | [My local AI Agent](https://github.com/linceBLA/My-local-AI-Agent) |
 
-
+------------
 
 ### Public Speaking & Cybersecurity Awareness
 
