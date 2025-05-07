@@ -1,35 +1,35 @@
-# Hi, I'm Celine Blandin
+# Welcome to Celine Blandin's Portfolio
 <a href="https://www.linkedin.com/in/celine-blandin/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an **Ethical Hacker** driven by a passion for both **Cybersecurity** and **Artificial Intelligence**, dedicated to protecting the digital world and exploring how **AI can both defend and disrupt**.
 
-## 🎯 My Mission & Core Skills
+## My Mission & Core Skills
 
 As an **Ethical Hacker** passionate about **Cybersecurity** and **Artificial Intelligence**, I specialize in:
 
-- 🕵️‍♂️ Identifying system vulnerabilities  
-- 🛠️ Adapting methodologies to fit client environments  
-- 📚 Aligning with **OWASP standards** for secure web applications  
+- Identifying system vulnerabilities  
+- Adapting methodologies to fit client environments  
+- Aligning with **OWASP standards** for secure web applications  
 
 I explore **both sides of AI in security**:
-- 🤖 **Hacking with AI** to strengthen defenses  
-- 🧠 **Auditing and challenging AI systems** to ensure robustness and safety  
+- **Hacking with AI** to strengthen defenses  
+- **Auditing and challenging AI systems** to ensure robustness and safety  
 
 With a strong foundation in **Project Management**, I bring:
-- 🔍 Problem-solving & planning skills  
-- 🧩 Team, client, and subcontractor coordination  
-- ⏱️ Deadline and budget management  
+- Problem-solving & planning skills  
+- Team, client, and subcontractor coordination  
+- Deadline and budget management  
 
 As a **speaker and cybersecurity educator**, I’m able to:
-- 📢 Communicate complex concepts in simple terms  
-- 🧑‍🏫 Transfer technical knowledge to diverse audiences  
-- 🌐 Raise awareness on digital threats and smart protection strategies in an AI-driven world  
+- Communicate complex concepts in simple terms  
+- Transfer technical knowledge to diverse audiences  
+- Raise awareness on digital threats and smart protection strategies in an AI-driven world  
 
 
 ## 📂 Projects
 
 
-### Coding Projects Overview
+### Some Coding Projects Overview
 
 | Language | Project | Description |
 |----------|---------|-------------|
@@ -39,8 +39,12 @@ As a **speaker and cybersecurity educator**, I’m able to:
 
 ### AI
 
-- [My local AI](https://github.com/linceBLA/My-local-AI): I installed my own local AI on my computer
-- [My local AI Agent](https://github.com/linceBLA/My-local-AI-Agent): I installed an AI agent on my local computer
+| AI Project | Description Link |
+|-------------------------------------------|------------------------------|
+|  My own local AI    | [My local AI](https://github.com/linceBLA/My-local-AI) |
+| My AI agent on my local computer   | [My local AI Agent](https://github.com/linceBLA/My-local-AI-Agent) |
+
+
 
 ### Public Speaking & Cybersecurity Awareness
 
@@ -72,7 +76,7 @@ I regularly give presentations to raise awareness on cybersecurity and artificia
 <img src="https://img.shields.io/badge/-Edusphere%20Wireless%20Ethical%20Hacking%20%26%20Penetration%20Testing-3D3D3D?&style=for-the-badge&logo=edusphere&logoColor=white" />
 <a href="https://www.insa-toulouse.fr/"><img src="https://img.shields.io/badge/-INSA%20Civil%20Engineering-003D7D?&style=for-the-badge&logo=institute-of-engineering&logoColor=white" /><a/>
 
-## 🧰 Tools & Technologies
+## 🧰 Some of the Tools & Technologies I use
 
 ### Security and Penetration Testing Tools:
 <div>
