@@ -34,7 +34,7 @@ As a **speaker and cybersecurity educator**, I’m able to:
 | Language | Project | Description |
 |----------|---------|-------------|
 | **Python** | [Accelerating Mapping Phase](https://github.com/linceBLA/Accelerating-Mapping-Phase/tree/main) | Python scripts to automate the mapping phase of large web applications, ensuring fast, accurate coverage of the attack surface without missing key vulnerabilities. Optimized for fast web audits. |
-| **Python** | [Accelerating Mapping Phase](https://github.com/linceBLA/QR-Code-Scanner/tree/main) | web-based QR Code Security Scanner that uses the VirusTotal API to check scanned URLs for threats before opening them, helping users avoid malicious links. |
+| **Python** | [QR Code scanner via Virus Total](https://github.com/linceBLA/QR-Code-Scanner/tree/main) | web-based QR Code Security Scanner that uses the VirusTotal API to check scanned URLs for threats before opening them, helping users avoid malicious links. |
 | **YAML** | [Nuclei Templates](https://github.com/linceBLA/YAML-Scripts) | Custom [Nuclei](https://github.com/projectdiscovery/nuclei) vulnerability templates targeting CVEs, misconfigurations, and CMS-specific flaws. |
 
 
