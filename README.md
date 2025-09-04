@@ -45,6 +45,7 @@ As a **speaker and cybersecurity educator**, I’m able to:
 |-------------------------------------------|------------------------------|
 |  My own local AI    | [My local AI](https://github.com/linceBLA/My-local-AI) |
 | My AI agent on my local computer   | [My local AI Agent](https://github.com/linceBLA/My-local-AI-Agent) |
+|  Prompt Injection project    | [Prompt Injection project](https://github.com/linceBLA/Prompt-injection) |
 
 ------------
 
