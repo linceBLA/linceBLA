@@ -55,7 +55,7 @@ I regularly give presentations to raise awareness on cybersecurity and artificia
 
 | Audience | Presentation Title & Link |
 |-------------------------------------------|------------------------------|
-| AI Professionals     | [Prompt Injection Presentation](https://github.com/linceBLA/Low-Code-and-Security](https://github.com/linceBLA/Prompt-Injection-Presentation)) |
+| AI Professionals     | [Prompt Injection Presentation](https://github.com/linceBLA/Prompt-Injection-Presentation)) |
 | One of the largest international banks     | [Low Code and Security](https://github.com/linceBLA/Low-Code-and-Security) |
 | 12th grade students – French high school   | [Cybersecurity and Its Impacts](https://github.com/linceBLA/La-cybersecurite-et-ses-impacts/tree/main) |
 | From 3rd grade students – French elementary school | [What is Cybersecurity?](https://github.com/linceBLA/C-est-quoi-la-Cybersecurite) |
